@@ -7,5 +7,4 @@ Tools used:
 *Pandas
 *Scikit-learn
 *Matplotlib
-*Seaborn
 *Pickle
